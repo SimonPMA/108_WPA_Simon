@@ -1,0 +1,37 @@
+[
+    {
+      "url": "https://nomplok.com/wp-content/uploads/2020/06/Rumah-Kontrakan-Bersih-Rapi-dan-Lengkap-1-760x410.jpg",
+      "name": "Kos-Kosan Pak Komang",
+      "price": "1500K IDR/month",
+      "address": "Denpasar, Bali",
+      "rating": 4.5
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "name": "SCBD Apartemen",
+      "price": "5000000K IDR",
+      "address": "Citayam, West Java",
+      "rating": 4.2
+    },
+    {
+      "url": "https://www.jejakpiknik.com/wp-content/uploads/2018/10/Villa-Gafisa-2-630x380.jpg",
+      "name": "Vila Songgoriti",
+      "price": "200K IDR/night",
+      "address": "Batu, East Java",
+      "rating": 4.7
+    },
+    {
+      "url": "https://www.sewakost.com/files/03-2021/ad52407/kos-kosan-bebas-aman-dan-2110797795_large.jpg",
+      "name": "Kontrakan Bu Tukiyem",
+      "price": "1000K IDR/year",
+      "address": "Solo, Central Java",
+      "rating": 4.6
+    },
+    {
+      "url": "https://citralandsurabaya.com/wp-content/uploads/2021/06/cluster-stonegate-park.jpg",
+      "name": "Citra Land",
+      "price": "9999999999K IDR",
+      "address": "Surabaya, East Java",
+      "rating": 5.0
+    }
+]
